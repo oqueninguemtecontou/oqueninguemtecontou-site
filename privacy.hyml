@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy - O Que Ninguém Te Contou</title>
+</head>
+<body>
+  <h1>Privacy Policy – O Que Ninguém Te Contou</h1>
+  <p>Your privacy is important to us.</p>
+
+  <h2>1. Information We Collect</h2>
+  <p>We only collect information necessary for TikTok API authentication and never store or share personal data.</p>
+
+  <h2>2. Use of Information</h2>
+  <p>Data is used solely to automate video uploads and manage user access via the TikTok API.</p>
+
+  <h2>3. Data Security</h2>
+  <p>We use secure connections and do not sell or share any data with third parties.</p>
+
+  <h2>4. User Rights</h2>
+  <p>You can revoke TikTok access at any time through your TikTok account settings.</p>
+
+  <h2>5. Contact</h2>
+  <p>For questions, contact us at: [seu e-mail]</p>
+</body>
+</html>
